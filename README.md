@@ -2,6 +2,7 @@
 
 ### Who?
 I'm a Python Developer
+
 Also about me:
 * 🤖 I like programming;
 * 🐍 I'm still learning Python;
